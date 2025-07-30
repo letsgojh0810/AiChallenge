@@ -63,3 +63,4 @@ bin/
 
 ### Windows ###
 Thumbs.db
+.env
